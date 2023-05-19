@@ -10,7 +10,6 @@ Write your own steps here.
 Create a folder named 'static' in which a folder named 'html' has to be created and under which all the required html files are to be included. Code the main html program for the website and link all the other 5 html codes created regarding the places description.
 
 ## Code:
-
 I```
 <!Doctype html>
 <html>
